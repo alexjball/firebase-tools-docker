@@ -11,7 +11,7 @@ on:
 
 env:
   REPOSITORY: alexjball/firebase-tools
-  VERSION: 11.7.0
+  VERSION: 11.16.0
 
 jobs:
   firebase-tools:
